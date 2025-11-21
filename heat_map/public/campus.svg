@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 462.6 549.2" style="enable-background:new 0 0 462.6 549.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#A4A5A5;}
+	.st2{fill:none;stroke:#A4A5A5;stroke-width:7;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#A4A5A5;stroke-width:5;stroke-miterlimit:10;}
+	.st4{fill:#C0CDD7;cursor:pointer;}
+	.st4:hover{fill:#8FA8B8;}
+</style>
+
+<script type="text/javascript">
+<![CDATA[
+function buildingClick(buildingId) {
+    alert('You clicked on building: ' + buildingId);
+}
+]]>
+</script>
+
+<rect id="_x3C_ground_x3E_" x="0" y="0" class="st0" width="462.6" height="549.2"/>
+<g id="_x3C_extra_path_x3E_">
+	<g>
+		<path class="st1" d="M75.3,97.1l-17.2,11.1c-1.1,0.7-2.1,1.8-2.7,3l-7,13.4c-1.1,2.1-1.8,4.4-2.1,6.7l-1.6,13.3
+			c-0.5,4.5-3.7,8.4-8.1,9.8l-15.9,5c-1.2,0.4-2.4,0.6-3.6,0.6c-3.8,0-7.4-1.9-9.7-5.1l-7.5-11v-8.8l11.7,17
+			c1.7,2.5,4.8,3.5,7.6,2.6l15.9-5c2.5-0.8,4.3-3,4.6-5.6l1.6-13.4c0.4-2.9,1.2-5.8,2.6-8.4l7-13.4c1-2,2.6-3.7,4.4-4.9l17.2-11.1
+			L75.3,97.1z"/>
+	</g>
+	<g>
+		<path class="st1" d="M335.5,549.2h-10l-6.9-6.8c-5.2-5.3-8.4-12.2-9.1-19.5l-1.9-21.6l7-0.6l1.9,21.6c0.5,5.7,3,11.1,7,15.2
+			L335.5,549.2z"/>
+	</g>
+	<g>
+		<path class="st1" d="M401.6,0c2.4,17.9,12.7,94.2,26.4,162.2c15.2,75.3,29.8,171.8,28.3,217.7c0.2,36.3-5.7,82.1-10.3,118.9
+			c-2.5,19.9-4.8,37.5-5.7,50.5h-18c0.9-13.7,3.3-31.9,5.9-52.8c4.6-36.3,10.4-81.6,10.2-116.7v-0.2l0-0.2
+			c1.5-44.4-12.9-139.3-27.9-213.7C395.8,93.6,385,12.4,383.4,0H401.6z"/>
+	</g>
+</g>
+<g id="_x3C_path_x3E_">
+	<path class="st2" d="M385.5,505.4l-0.7-253.2l-2.7-118.5c0,0,1.6-13.4-10-27l-11.9-13.5c0,0-6.4-7.3-14.2-10.7
+		c-7.8-3.4-17.5-11.5-17.5-11.5s-10.7-10.6-25.9-15.3c-6.3-2-13.4-2.6-21.4-2.4c-28.3,0.7-114.7-2-172.3,2.7c0,0-16.3-1-25.5,16.3
+		S74,95,74,95l-2,81.5l-7.1,92.1l9.4,75.5l20.3,75.6c0,0,10.7,22.4,26.1,44.7c3.6,5.2,6.5,9.5,10.7,14.5l210.4,25.7L385.5,505.4
+		l48.2,4.5"/>
+	<line class="st3" x1="316.7" y1="253.1" x2="311.1" y2="501"/>
+	<path class="st2" d="M382.1,133.8l-43.3-0.2c-10.6-0.1-19.6,8.3-19.8,18.9l-2.3,100.7"/>
+	<line class="st3" x1="200.4" y1="487.5" x2="206" y2="53.3"/>
+	<polyline class="st2" points="384.8,252.2 316.7,253.1 203.4,250.5 	"/>
+	<line class="st3" x1="289.4" y1="190.8" x2="204.2" y2="189.8"/>
+	<line class="st3" x1="204.8" y1="148.1" x2="73.3" y2="148.1"/>
+	<line class="st3" x1="315.7" y1="298" x2="202.8" y2="297"/>
+	<line class="st3" x1="204.8" y1="180.4" x2="71.6" y2="180.4"/>
+	<polyline class="st3" points="315.5,307.2 328.1,307.2 328.1,253.1 	"/>
+	<path class="st3" d="M120.5,464.3l3.1-6.5c1.2-2.4,3.6-4,6.3-4h58.9c0,0,11.5,0.7,11.5,13.2"/>
+</g>
+<g id="_x3C_buildings_x3E_">
+	<rect id="_x3C_b35_x3E_" x="55.5" y="115" class="st4" width="11.7" height="26.6" onclick="buildingClick('B35')"/>
+	<polygon id="_x3C_b34_x3E_" class="st4" points="82.6,91.9 196.8,92.1 196.5,118.7 82.4,118.5" onclick="buildingClick('B34')"/>
+	<image 
+	href="/icons/washroom.png" 
+	x="80"   
+	y="30"   
+	width="13" 
+	height="13" 
+	pointer-events="none" 
+	/>
+	<rect id="_x3C_b33_x3E_" x="213.4" y="92.7" class="st4" width="95" height="30.6" onclick="buildingClick('B33')"/>
+	<polygon id="_x3C_b32_x3E_" class="st4" points="302.4,62.1 302.4,86.2 213.4,86.2 213.4,62.1 246.5,62.1 246.5,59.7 262,59.7 
+		262,62.1" onclick="buildingClick('B32')"/>
+	<rect id="_x3C_b31_x3E_" x="83.9" y="154" class="st4" width="115.8" height="19.8" onclick="buildingClick('B31')"/>
+	<rect id="_x3C_b30_x3E_" x="82.3" y="260.2" class="st4" width="107.9" height="24" onclick="buildingClick('B30')"/>
+	<rect id="_x3C_b29_x3E_" x="87.6" y="318.7" class="st4" width="108.6" height="24.2" onclick="buildingClick('B29')"/>
+	<polygon id="_x3C_b28_x3E_" class="st4" points="199.7,203.3 199.7,232 82.4,232 82.4,195.9 98.5,195.9 98.5,203.3 113.4,203.3 
+		113.4,199.1 103.7,199.1 103.7,186.2 131.7,186.2 131.7,203.3" onclick="buildingClick('B28')"/>
+	<rect id="_x3C_b27_x3E_" x="131.4" y="430.3" class="st4" width="21.2" height="17.4" onclick="buildingClick('B27')"/>
+	<polygon id="_x3C_b26_x3E_" class="st4" points="96.7,374.6 112.2,374.7 112.2,397.1 96.7,396.9" onclick="buildingClick('B26')"/>
+	<polygon id="_x3C_b25_x3E_" class="st4" points="103.5,405.1 122.9,405.1 122.9,425.2 110.1,425.2 110.2,416.2 103.5,416.2" onclick="buildingClick('B25')"/>
+	<rect id="_x3C_b24_x3E_" x="82.3" y="288.4" class="st4" width="46" height="26.2" onclick="buildingClick('B24')"/>
+	<rect id="_x3C_b23_x3E_" x="138.7" y="290.5" class="st4" width="32.5" height="22" onclick="buildingClick('B23')"/>
+	<polygon id="_x3C_b22_x3E_" class="st4" points="190.2,241.8 190.2,249.9 176.6,249.9 176.6,256.3 142.2,256.3 142.2,235.3 
+		176.6,235.3 176.6,241.8" onclick="buildingClick('B22')"/>
+	<rect id="_x3C_b21_x3E_" x="175.3" y="186.2" class="st4" width="24.4" height="12.3" onclick="buildingClick('B21')"/>
+	<rect id="_x3C_b20_x3E_" x="90.2" y="122.3" class="st4" width="37.1" height="21.3" onclick="buildingClick('B20')"/>
+	<rect id="_x3C_b19_x3E_" x="135.3" y="122.3" class="st4" width="19.7" height="21.3" onclick="buildingClick('B19')"/>
+	<polygon id="_x3C_b18_x3E__00000096033153864043970640000013314509281890693787_" class="st4" points="193.5,130.3 193.5,134.8 
+		189.4,134.8 189.4,138.2 176.1,138.2 176.1,126.9 189.4,126.9 189.4,130.3" onclick="buildingClick('B18')"/>
+	<polygon id="_x3C_b18_x3E_" class="st4" points="172,123.3 172,138.2 163.3,138.2 163.3,126.9 167.9,126.9 167.9,123.3" onclick="buildingClick('B18')"/>
+	<image 
+		href="/icons/washroom.png" 
+		x="170" 
+		y="125" 
+		width="13" 
+		height="13" 
+		pointer-events="none" 
+		/>
+	<rect id="_x3C_b17_x3E_" x="167.6" y="63.5" class="st4" width="23.1" height="23.1" onclick="buildingClick('B17')"/>
+	<polygon id="_x3C_b16_x3E_" class="st4" points="281.4,140.8 281.4,171.4 236.3,171.4 236.3,166.2 230.1,166.2 230.1,163.9 
+		222.2,163.9 222.2,148.4 230.1,148.4 230.1,146 235.3,146 235.3,140.8" onclick="buildingClick('B16')"/>
+	<polygon id="_x3C_b15_x3E_" class="st4" points="310.8,415.3 310.8,424.7 303.2,424.7 303.2,436.6 293.7,436.6 293.7,431.4 
+		251.2,431.4 251.2,408.3 293.7,408.3 293.7,403.9 303.2,403.9 303.2,415.3" onclick="buildingClick('B15')"/>
+	<polygon id="_x3C_b14_x3E_" class="st4" points="307,449.5 307,458.1 297.8,458.1 297.8,465.5 266,465.5 266,442.1 297.8,442.1 
+		297.8,449.5" onclick="buildingClick('B14')"/>
+	<image href="/icons/canteen.webp"
+       x="277" y="446" 
+       width="15" height="15"
+       pointer-events="none" />
+	<rect id="_x3C_b13_x3E_" x="211.2" y="258.7" class="st4" width="94.9" height="30.3" onclick="buildingClick('B13')"/>
+	<polygon id="_x3C_b12_x3E_" class="st4" points="259.4,207.6 259.4,239.8 242.4,239.8 242.4,240.7 231.2,240.7 231.2,206.7 
+		242.4,206.7 242.4,207.6" onclick="buildingClick('B12')"/>
+	<rect id="_x3C_b11_x3E_" x="241" y="17.7" class="st4" width="66.9" height="25.5" onclick="buildingClick('B11')"/>
+	<polygon id="_x3C_b10_x3E_" class="st4" points="370.2,317 370.2,383 370.2,383 370.2,401.9 322.5,401.9 322.5,367.7 341.4,367.7 
+		341.4,383 351.3,383 351.3,317" onclick="buildingClick('B10')"/>
+	<rect id="_x3C_b9_x3E_" x="322.5" y="316.9" class="st4" width="19" height="40.8" onclick="buildingClick('B9')"/>
+	<polygon id="_x3C_b8_x3E_" class="st4" points="103,73.7 103,87.3 94.9,87.3 94.9,73.7 96.8,73.7 96.8,68.7 100.2,68.7 100.2,73.7" onclick="buildingClick('B8')"/>
+	<polygon id="_x3C_b7_x3E_" class="st4" points="322.9,205.3 311.1,205.3 311.1,244.2 289.4,244.2 289.4,136.6 311.1,136.6 
+		311.1,175.3 322.9,175.3" onclick="buildingClick('B7')"/>
+	<polygon id="_x3C_b6_x3E_" class="st4" points="368.9,259.2 368.9,297.3 333.6,297.3 333.6,285 323.3,285 323.3,271.8 333.6,271.8 
+		333.6,259.2" onclick="buildingClick('B6')"/>
+	<rect id="_x3C_b5_x3E_" x="135.4" y="348.4" class="st4" width="6.7" height="6.7" onclick="buildingClick('B5')"/>
+	<polygon id="_x3C_b4_x3E_" class="st4" points="169.5,349.1 169.5,354.3 168,354.3 168,355.1 149.1,355.1 149.1,348.4 168,348.4 
+		168,349.1" onclick="buildingClick('B4')"/>
+	<rect id="_x3C_b3_x3E_" x="87.6" y="346.4" class="st4" width="24.6" height="15.7" onclick="buildingClick('B3')"/>
+	<rect id="_x3C_b2_x3E_" x="115.4" y="359.6" class="st4" width="80.8" height="28.2" onclick="buildingClick('B2')"/>
+	<polygon id="_x3C_b1_x3E_" class="st4" points="196.2,398.6 196.2,447.8 175,447.8 175,430.2 155.8,430.2 155.8,398.6" onclick="buildingClick('B1')"/>
+	<image 
+	href="/icons/washroom.png" 
+	x="190"   
+	y="500"   
+	width="13" 
+	height="13" 
+	pointer-events="none" 
+	/>
+</g>
+</svg>

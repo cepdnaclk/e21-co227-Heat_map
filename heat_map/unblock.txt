@@ -1,0 +1,3 @@
+Get-ExecutionPolicy
+
+Unblock-File -Path ".\all-start.ps1"

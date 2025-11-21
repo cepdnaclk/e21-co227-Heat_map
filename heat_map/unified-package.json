@@ -1,0 +1,30 @@
+{
+  "name": "unified-exhibition-server",
+  "version": "1.0.0",
+  "description": "Unified API middleware server for Exhibition Management System",
+  "main": "unified-server.js",
+  "scripts": {
+    "start": "node unified-server.js",
+    "dev": "nodemon unified-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "proxy",
+    "middleware",
+    "api-gateway",
+    "exhibition"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

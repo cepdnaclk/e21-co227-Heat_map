@@ -1,0 +1,24 @@
+Entry vs Exit by Time Slot
+"slot","entries","exits"
+"1pm-4pm",9,9
+"4pm-7pm",10,0
+"other",10,0
+
+Zone Transitions (Top 50)
+"from_zone","to_zone","transitions"
+"B","B",10
+
+Busiest Buildings
+"dept_name","building_id","entries"
+"Department of Electrical and Electronic Engineering","B34",10
+"Engineering Carpentry Shop","B1",6
+"Drawing Office 2","B13",3
+"New Mechanics Lab","B24",2
+"Professor E.O.E. Perera Theatre","B16",2
+
+Busiest Zones
+"zone","unique_visitors"
+"B",19
+
+Average Buildings Visited per Person
+Value,1.34

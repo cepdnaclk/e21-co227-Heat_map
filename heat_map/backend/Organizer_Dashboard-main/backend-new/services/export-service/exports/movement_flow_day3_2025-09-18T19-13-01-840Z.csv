@@ -1,0 +1,14 @@
+Entry vs Exit by Time Slot
+"slot","entries","exits"
+
+Zone Transitions (Top 50)
+"from_zone","to_zone","transitions"
+
+Busiest Buildings
+"dept_name","building_id","entries"
+
+Busiest Zones
+"zone","unique_visitors"
+
+Average Buildings Visited per Person
+Value,1.34
