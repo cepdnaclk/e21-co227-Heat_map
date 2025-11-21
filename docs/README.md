@@ -34,12 +34,12 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
-#Problem
+# problem
 
 Faculty exhibitions attract over 1000 visitors, causing lab congestion, safety hazards, and inefficient manual crowd counting.
 Security teams often receive crowd updates too late to act before overcrowding occurs.
 
-Solution
+# Solution
 
 Our micro-service delivers  real-time crowd density data  to campus kiosks. It fetches live counts, computes capacity ratios, assigns intuitive traffic-light colors, and caches results. A single REST endpoint, /map-data, provides JSON for interactive heatmap rendering. 
 
@@ -49,7 +49,7 @@ By collecting and visualizing crowd data through a custom Heatmap API, the syste
 
 To achieve this, we implemented mechanisms to gather crowd counts from CCTV video feeds and QR code scanning points, ensuring accurate, continuous, and scalable data collection.
 
-#Tech Stack
+# Tech Stack
  1. Frontend – React.js
  2. Backend – Flask,Express.js,Node.js
  3. People detection –OPEN CV / YOLO version 5
